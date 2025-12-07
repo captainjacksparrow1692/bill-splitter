@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5434/bill_splitter
-    username: sparrow
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
     password: 9376570167
     driver-class-name: org.postgresql.Driver
 
